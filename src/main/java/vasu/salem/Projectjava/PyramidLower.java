@@ -19,7 +19,6 @@ public class PyramidLower {
 			System.out.println();
 			time-=2;
 		}
-		
 scan.close();
 }
 }
