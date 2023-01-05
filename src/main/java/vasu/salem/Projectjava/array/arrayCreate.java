@@ -1,4 +1,4 @@
-package vasu.salem.Projectjava;
+package vasu.salem.Projectjava.array;
 
 public class arrayCreate {
     public static void main(String[] args) {

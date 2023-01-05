@@ -1,4 +1,4 @@
-package vasu.salem.Projectjava;
+package vasu.salem.Projectjava.array;
 
 import java.util.Scanner;
 

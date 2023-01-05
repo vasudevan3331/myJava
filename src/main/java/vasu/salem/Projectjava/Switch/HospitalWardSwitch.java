@@ -1,4 +1,4 @@
-package vasu.salem.Projectjava;
+package vasu.salem.Projectjava.Switch;
 
 import java.util.Scanner;
 
